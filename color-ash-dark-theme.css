@@ -1,0 +1,24 @@
+:root {
+	--default: var(primitive\/color\/solid\/ash\/1);
+	--muted: var(primitive\/color\/solid\/ash\/6);
+	--silent: var(primitive\/color\/solid\/ash\/10);
+	--disabled: var(primitive\/color\/solid\/ash\/12);
+	--inverse: var(primitive\/color\/solid\/ash\/15);
+	--onEmphasis: var(primitive\/color\/solid\/ash\/15);
+	--default: var(primitive\/color\/solid\/ash\/1);
+	--muted: var(primitive\/color\/solid\/ash\/6);
+	--silent: var(primitive\/color\/solid\/ash\/10);
+	--disabled: var(primitive\/color\/solid\/ash\/12);
+	--inverse: var(primitive\/color\/solid\/ash\/15);
+	--OnEmphasis: var(primitive\/color\/solid\/ash\/15);
+	--default: var(primitive\/color\/solid\/ash\/13);
+	--emphasis: var(primitive\/color\/solid\/ash\/11);
+	--muted: var(primitive\/color\/solid\/ash\/14);
+	--input: var(primitive\/color\/solid\/ash\/13);
+	--input-disabled: var(primitive\/color\/solid\/ash\/13);
+	--default: var(primitive\/color\/solid\/ash\/16);
+	--emphasis: var(primitive\/color\/solid\/ash\/1);
+	--muted: var(primitive\/color\/solid\/ash\/14);
+	--silent: var(primitive\/color\/solid\/ash\/15);
+	--disabled: var(primitive\/color\/solid\/ash\/14);
+}
